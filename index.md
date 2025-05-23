@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
+# A collection of Notes by Jaime A Reyes
 
